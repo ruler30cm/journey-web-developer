@@ -4,6 +4,8 @@ All of this thanks to Traversy Media for the video: [Web Development In 2019 - A
 
 I will link only the video from YouTube. if you want to search for the Udemy Course, you can see the video about it.
 
+Please do contribute by adding or updating this guide!
+
 ## HTML & CSS
 
 - [HTML Crash Course for Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)🌟
